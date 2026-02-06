@@ -20,10 +20,3 @@ BC = int(input("Enter BC Units Values:"))
 CA = int(input("Enter CA Units Values:"))
 
 equilateral_triangle(AB,BC,CA)
-
-
-
-
-
-
-
